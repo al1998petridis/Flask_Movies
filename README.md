@@ -1,7 +1,5 @@
 # Flask_Movies
 Web app using Flask
-# FlaskWebApp
-Web app using python's flask
 
 ## First clone current repository
 ``` $ git clone https://github.com/al1998petridis/Flask_Movies.git ```
