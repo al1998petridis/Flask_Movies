@@ -1,4 +1,4 @@
-# Flask_Movies
+# Flask Movies
 Web app using Flask
 
 ## First clone current repository
