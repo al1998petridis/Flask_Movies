@@ -17,11 +17,11 @@ Go to cloned directory with ``` $ cd Flask_Movies/ ```
 
 ## Create database
 ### First go to /src folder
-``` (flaskapp) $ cd /src ```
+``` (flaskapp) $ cd src/ ```
 ### Open python
 ``` (flaskapp) $ python ```
 ### Create database
-``` (flaskapp) >>> from FlaskMoviesApp import db ```
+``` (flaskapp) >>> from flaskMoviesApp import db ```
 
 ``` (flaskapp) >>> db.create_all() ```
 
